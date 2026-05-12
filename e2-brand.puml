@@ -7,37 +7,46 @@
 !theme bluegray
 
 ' --- Text ---
+skinparam defaultFontName  "Montserrat"
 skinparam defaultFontColor #1D0F31
 skinparam ArrowColor        #1D0F31
+skinparam ArrowFontName     "Montserrat"
 skinparam ArrowFontColor    #1D0F31
 
 ' --- Agents ---
 skinparam agentBackgroundColor #F0E8D9
 skinparam agentBorderColor     #1D0F31
+skinparam agentFontName        "Montserrat"
 skinparam agentFontColor       #1D0F31
 
 ' --- Components ---
 skinparam componentBackgroundColor #3FE1D6
 skinparam componentBorderColor     #1D0F31
+skinparam componentFontName        "Montserrat"
 skinparam componentFontColor       #1D0F31
 
 ' --- Packages ---
 skinparam packageBackgroundColor #3FE1D6
 skinparam packageBorderColor     #1D0F31
+skinparam packageFontName        "Montserrat"
 skinparam packageFontColor       #1D0F31
 
 ' --- Actors ---
 skinparam actorBackgroundColor #F0E8D9
 skinparam actorBorderColor     #1D0F31
+skinparam actorFontName        "Montserrat"
 skinparam actorFontColor       #1D0F31
 
 ' --- Activity (flowcharts) ---
 skinparam activityBackgroundColor        #F0E8D9
 skinparam activityBorderColor            #1D0F31
+skinparam activityFontName               "Montserrat"
 skinparam activityFontColor              #1D0F31
 skinparam activityDiamondBackgroundColor #F0E8D9
+skinparam activityDiamondFontName        "Montserrat"
 skinparam activityDiamondFontColor       #1D0F31
 
 ' --- Notes ---
 skinparam noteBackgroundColor #F0E8D9
+skinparam noteFontName        "Montserrat"
 skinparam noteFontColor       #1D0F31
